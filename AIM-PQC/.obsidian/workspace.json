@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Modern Encryption/Exercises.md",
+                "file": "1. WEEK1/Alice and Bob.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercises"
+              "title": "Alice and Bob"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66f186e37ae4bdeb",
+  "active": "cccf4f5d9dd4e63b",
   "lastOpenFiles": [
+    "3. Modern Encryption/Exercises.md",
+    "Attachments",
     "4. Asymmetric Cryptography/Exercises.md",
     "2. Ciphers/Exercises.md",
     "10. Projects/Project 1.md",
@@ -187,8 +190,8 @@
     "9. PQC Migration/Db2 Experiments.md",
     "9. PQC Migration/Db2 Digital Signature.md",
     "9. PQC Migration/Db2 key Exchange.md",
-    "Pasted image 20250620193942.jpg",
-    "Pasted image 20250619230348.jpg",
+    "Attachments/Pasted image 20250620193942.jpg",
+    "Attachments/Pasted image 20250619230348.jpg",
     "8. Intro To Post-Quantum Cryptography/Lattice-based.md",
     "9. PQC Migration/Seventh E Essay.md",
     "9. PQC Migration/Sixth E Execute.md",
@@ -199,19 +202,18 @@
     "8. Intro To Post-Quantum Cryptography/NIST Standardizations.md",
     "10. Projects",
     "8. Intro To Post-Quantum Cryptography/hash-based.md",
-    "8. Intro To Post-Quantum Cryptography/code-based.md",
     "Symmetric",
     "8. Intro To Post-Quantum Cryptography",
-    "Pasted image 20250603005511.png",
+    "Attachments/Pasted image 20250603005511.png",
     "7. Quantum Algorithms and Threats",
-    "Pasted image 20250529143137.png",
-    "Pasted image 20250529143135.png",
-    "Pasted image 20250529142901.png",
-    "Pasted image 20250529142429.png",
+    "Attachments/Pasted image 20250529143137.png",
+    "Attachments/Pasted image 20250529143135.png",
+    "Attachments/Pasted image 20250529142901.png",
+    "Attachments/Pasted image 20250529142429.png",
     "6. Quantum Computing",
-    "Pasted image 20250527165338.png",
-    "Pasted image 20250527164719.png",
-    "Pasted image 20250526140150.png",
+    "Attachments/Pasted image 20250527165338.png",
+    "Attachments/Pasted image 20250527164719.png",
+    "Attachments/Pasted image 20250526140150.png",
     "5. Hash Functions",
     "4. Asymmetric Cryptography",
     "3. Modern Encryption"
