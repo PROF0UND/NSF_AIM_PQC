@@ -1,0 +1,3 @@
+- Alice and Bob communicate with each other.
+- Eve is the eavesdropper.
+- Trent is a trusted third party who helps with authentication and dispute resolution.

@@ -1,0 +1,4 @@
+- Educate the programmers and designers to ensure that everyone is "on the same page"
+- whole development organization needs to be aware of the challenges of quantum attacks.
+- security professionals may not have sufficient knowledge of PQC to perform the evolution of cryptographic schemes confidently.
+- transfer knowledge and brainstorm within and outside this research team through work sessions, conferences, seminars, publications, etc.

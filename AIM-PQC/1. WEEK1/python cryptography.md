@@ -1,0 +1,5 @@
+- Cryptography library.
+	- `pip install cryptography`.
+	- provides cryptographic recipes and primitives to Python developers.
+	- `cryptography` includes both high level recipes and low-level interfaces to common cryptographic algorithms such as symmetric ciphers, message digests, and key derivation functions.
+	- [Cryptography_Documentation](https://cryptography.io/en/latest/).

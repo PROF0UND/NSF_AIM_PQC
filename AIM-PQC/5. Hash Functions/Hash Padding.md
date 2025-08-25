@@ -1,0 +1,5 @@
+- Input is padded before compression.
+- eg: 512 or 1024 bits
+- should be multiples of the block size.
+- The padding scheme typically includes the original message length to prevent length-extension attacks.
+- All hashes of the same variant yield identical digest lengths regardless of input size, supporting consistent storage and comparison .

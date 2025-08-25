@@ -1,0 +1,3 @@
+- In 2017, China’s “**Micius**” satellite demonstrated QKD between ground stations thousands of kilometers apart, establishing a secure key between Beijing and Vienna.
+- involved beaming entangled photons from space; they even conducted a video call secured by QKD keys between continents.
+- The European Space Agency is planning a satellite called **Eagle-1** to be launched around 2025 to further test space QKD.

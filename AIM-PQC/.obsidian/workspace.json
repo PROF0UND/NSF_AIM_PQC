@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "c482591efbf39efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "41d00899a1d6bac0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f186e37ae4bdeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Modern Encryption/Exercises.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exercises"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8b10282908645e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ed44851fc34d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cccf4f5d9dd4e63b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "42ff27c776283049",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a827978d00337116",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "f8dddc5102ded4f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d883fb15ff79d03b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1661566ce1d1cd30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Hash Functions/Hash Exercises.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hash Exercises"
+            }
+          },
+          {
+            "id": "de1db0013bc73eb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5. Hash Functions/Hash Exercises.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hash Exercises"
+            }
+          },
+          {
+            "id": "7cbae8aac3d03409",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3d4f341203d7817d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. Hash Functions/Hash Exercises.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hash Exercises"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "66f186e37ae4bdeb",
+  "lastOpenFiles": [
+    "4. Asymmetric Cryptography/Exercises.md",
+    "2. Ciphers/Exercises.md",
+    "10. Projects/Project 1.md",
+    "7. Quantum Algorithms and Threats/Shor's Algorithm.md",
+    "7. Quantum Algorithms and Threats/Shor Exercise.md",
+    "9. PQC Migration/1. PQC Migration Overview.md",
+    "9. PQC Migration/Fourth E Evolve.md",
+    "9. PQC Migration/Third E Examine.md",
+    "9. PQC Migration/Second E Educate.md",
+    "8. Intro To Post-Quantum Cryptography/Motivation for PQC.md",
+    "8. Intro To Post-Quantum Cryptography/1. Post-Quantum Cryptography.md",
+    "9. PQC Migration/First E Engage.md",
+    "9. PQC Migration/Migration to PQC for Db2.md",
+    "9. PQC Migration/Background info for Db2.md",
+    "9. PQC Migration/Db2 Experiments.md",
+    "9. PQC Migration/Db2 Digital Signature.md",
+    "9. PQC Migration/Db2 key Exchange.md",
+    "Pasted image 20250620193942.jpg",
+    "Pasted image 20250619230348.jpg",
+    "8. Intro To Post-Quantum Cryptography/Lattice-based.md",
+    "9. PQC Migration/Seventh E Essay.md",
+    "9. PQC Migration/Sixth E Execute.md",
+    "9. PQC Migration/Fifth E Estimate.md",
+    "8. Intro To Post-Quantum Cryptography/isogeny-based.md",
+    "9. PQC Migration",
+    "8. Intro To Post-Quantum Cryptography/Family of PQC algorithms.md",
+    "8. Intro To Post-Quantum Cryptography/NIST Standardizations.md",
+    "10. Projects",
+    "8. Intro To Post-Quantum Cryptography/hash-based.md",
+    "8. Intro To Post-Quantum Cryptography/code-based.md",
+    "Symmetric",
+    "8. Intro To Post-Quantum Cryptography",
+    "Pasted image 20250603005511.png",
+    "7. Quantum Algorithms and Threats",
+    "Pasted image 20250529143137.png",
+    "Pasted image 20250529143135.png",
+    "Pasted image 20250529142901.png",
+    "Pasted image 20250529142429.png",
+    "6. Quantum Computing",
+    "Pasted image 20250527165338.png",
+    "Pasted image 20250527164719.png",
+    "Pasted image 20250526140150.png",
+    "5. Hash Functions",
+    "4. Asymmetric Cryptography",
+    "3. Modern Encryption"
+  ]
+}

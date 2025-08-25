@@ -1,0 +1,5 @@
+- Hash function H takes a variable‑length input M and outputs a fixed-size digest h = H (M)
+- Ideal properties include uniform distribution (outputs appear random), avalanche effect (a one-bit change in M flips about half the bits of h), and one‑wayness (computationally infeasible to invert).
+- From h, retrieving M is imfeasable.
+- Do not use secret keys and are only one-way.
+- This differentiates them from encryption algorithms.

@@ -1,0 +1,4 @@
+- When distributing files, the sender computes a hash and publishes it alongside the file.
+- Recipients download the file, compute the hash locally, and compare it to the published value.
+- A match confirms that the file was not altered in transit, guarding against tampering and corruption. 
+- This integrity check is lightweight and reliable, forming the basis for secure software distribution and update mechanisms.

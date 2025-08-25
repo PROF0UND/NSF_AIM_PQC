@@ -1,0 +1,6 @@
+- Execute the new cybersecurity policy.
+- Select solutions based on requirements, budgets and priorities.
+- for new systems: PQC
+- for legacy systems: software / hardware alterations
+- re-encrypting the existing data with a quantum-safe cryptographic algorithm
+- 

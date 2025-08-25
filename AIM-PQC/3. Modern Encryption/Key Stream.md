@@ -1,0 +1,1 @@
+A **key stream** is a sequence of bits that is **used to encrypt or decrypt plaintext** in a **stream cipher**. It acts like a secret pad that is combined with the plaintext (or ciphertext) using a simple operation like **XOR**.

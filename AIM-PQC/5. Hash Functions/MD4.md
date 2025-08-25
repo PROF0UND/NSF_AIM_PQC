@@ -1,0 +1,4 @@
+- Developed by Ronald Rivest in 1990
+- MD4 processes inputs in 32‑bit words using 3 rounds of bitwise functions and modular additions.
+- Its successor MD5 (1991) added a fourth round and nonlinear constants, producing 128‑bit hashes.
+- MD5 was widely adopted but is now deprecated due to collision attacks reducing its security to ~2^41 effort

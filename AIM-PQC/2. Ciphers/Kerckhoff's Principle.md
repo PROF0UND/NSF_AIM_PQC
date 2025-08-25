@@ -1,0 +1,1 @@
+Auguste Kerckhoffs (1883) argued that a cipher should remain secure even if the enemy knows the algorithm; only the **key** must remain secret. Classical ciphers are perfect case studies for this principle because, once the method is public, the small key spaces render them breakable.

@@ -1,0 +1,5 @@
+- AES is today's standard **symmetric encryption**, employing 
+	- sophisticated multiple rounds of byte substitution,
+	- row shifting, column mixing (diffusion), 
+	- round‑key addition (confusion).
+- AES replaced DES due to superior security, efficiency, and larger key sizes (128, 192, or 256 bits).

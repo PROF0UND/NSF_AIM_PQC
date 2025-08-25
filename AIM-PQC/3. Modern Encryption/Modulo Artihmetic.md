@@ -1,0 +1,5 @@
+- defined by A ≡ R mod M.
+- ie: if M divides A - R, then R is the reaminder.
+- basically means that both should give the same remainder;
+- For mod 2, only 1 or 2 can be the outputs. (even odd).
+- 

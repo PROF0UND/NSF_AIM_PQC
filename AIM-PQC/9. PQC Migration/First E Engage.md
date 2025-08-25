@@ -1,0 +1,5 @@
+- Engage executives and senior management so that they can sponsor the initiative.
+- executives and senior management can asses security from a broader perspective
+- allocate human resources.
+- may take time for executives to learn its growing powers and realize the side effects of these powers
+- engage multiple experts from different domains, because the evolution of the cybersecurity component often involves other parts of the system.

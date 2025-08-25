@@ -1,0 +1,2 @@
+- A small change in plaintext or key should flip about half the ciphertext bits—a property known as the avalanche effect. 
+- AES exhibits a strong avalanche effect, ensuring that attacks based on differential patterns become infeasible.

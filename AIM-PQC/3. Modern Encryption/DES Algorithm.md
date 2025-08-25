@@ -1,0 +1,1 @@
+**DES** processes 64‑bit blocks with a 56‑bit key over 16 Feistel rounds. While groundbreaking at its 1977 release, DES’s small key size now makes it vulnerable to exhaustive search—driving the shift to AES.

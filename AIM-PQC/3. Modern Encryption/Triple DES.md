@@ -1,0 +1,3 @@
+- 3DES applies DES three times with either two or three keys, effectively doubling key size. 
+- Though more secure than DES, 3DES is slower, and is being phased out in favor of [[Advanced Encryption Standard]] due to efficiency and higher security margins.
+- ![[Pasted image 20250523161134.png]]

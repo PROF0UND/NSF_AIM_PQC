@@ -1,0 +1,4 @@
+- Several companies (in Switzerland, the U.S., China, etc.) offer QKD devices that generate keys over optical fiber.
+- Distances are typically limited by fiber attenuation (tens of kilometers to maybe 100-200 km per link).
+- Repeaters or quantum repeaters are needed for longer distances.
+- There have been metropolitan QKD networks (e.g., **SwissQuantum** network, and a Cambridge-Boston link in the U.S.).

@@ -1,0 +1,4 @@
+- The **Picnic** signature scheme (an NIST Round 3 alternate) is an example that doesn’t fit neatly into the previous categories.
+- It uses only symmetric primitives (a block cipher) and zero-knowledge proofs (specifically, an “MPC-in-the-head” paradigm) to create signatures.
+- - Its security relies on  underlying symmetric cipher and hash and the soundness of the zero-knowledge proof.
+- no known breaks but suffered from LARGE signatures. (several 10s os KBs) and slow signing.

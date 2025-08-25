@@ -1,0 +1,3 @@
+- Estimate the impact of potential problems and the cost of alternatives to prioritize the problems.
+- Rate the cost of potential solutions in terms of human and time resources.
+- A representative example is a system handling personal data, such as financial transactions or health records

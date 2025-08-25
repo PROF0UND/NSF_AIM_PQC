@@ -1,0 +1,3 @@
+- Examine existing products and their cybersecurity components to locate issue etc.
+- For legacy systems, there exist difficult scenarios, such as a lack of documentation, source code, or build infrastructure.
+- evolution of PQC may also affect other components of the existing system.

@@ -1,0 +1,9 @@
+- Designing new software with crypto-agility.
+- so that quantum-safe algorithms can be added to the software later on.
+- design systems such that existing encryption schemes and be easily replaced with a new one.
+- systems should be able to recognize and "translate" multiple encryption schemes.
+- designed as a plug and play kinda
+- replacing a fixed key size with a dynamic key size.
+- if documentation is missing, one may first have to reverse engineer the architecture from the code by extracting caller-callee function pairs and identifying security-related ones.
+- business partners update hardware and software promptly
+- all the partners should disclose crypto-related information, e.g., security certificates and protocols, to each other.

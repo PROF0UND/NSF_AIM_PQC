@@ -1,0 +1,2 @@
+- new cryptographic algorithms designed to be secure against quantum attacks _and_ runnable on conventional computers.
+- Software solutions.

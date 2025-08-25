@@ -1,0 +1,4 @@
+- the system receives the user‑entered password, computes its hash, and compares it to the stored hash.
+- Because the salt is stored or derivable, this process remains deterministic.
+- Robust implementations use slow hash functions (e.g., bcrypt, scrypt) to slow brute‑force attacks, balancing usability and security.
+- lmaooo rage bait.
